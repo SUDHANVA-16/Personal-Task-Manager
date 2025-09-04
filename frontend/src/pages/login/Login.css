@@ -1,0 +1,11 @@
+.log-cont{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: 20px auto 0 auto;
+    padding: 20px;
+}
+.log-btn{
+    margin: 0 auto;
+    display: block;
+}

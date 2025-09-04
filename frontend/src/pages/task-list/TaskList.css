@@ -1,0 +1,35 @@
+.tasks-cont{
+    width: 80%;
+    margin: 20px auto 0 auto; /* margin: top right bottom left*/
+}
+
+.tasks-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  td,
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  .edit-btn,
+  .delete-btn 
+  {
+    width: 60px;
+  }
